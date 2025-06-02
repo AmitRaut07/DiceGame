@@ -1,7 +1,7 @@
 🎲 Dice Game - README
 Dice Game Screenshot 
 
-/Screenshot.png
+![Dice Game Screenshot](/Screenshot.png)
 
 A fun and interactive dice game built with React ⚛️, bundled with Vite ⚡, and powered by npm. Roll the dice and test your luck! 🍀
 
